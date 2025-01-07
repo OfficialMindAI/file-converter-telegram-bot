@@ -1,2 +1,7 @@
-# file-converter-telegram-bot
-A telegram  bot to convert file from a format to a different format 
+# File Converter Telegram Bot
+
+This bot is used to convert any file format to any file format, the bot is still under development so the source code is yet to be pushed in the repository.
+
+ 
+
+
